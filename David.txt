@@ -1,2 +1,6 @@
 9/11WASANINSIDEJOB
+are you sure tho<<<<<<< HEAD
 are you sure tho
+=======
+Bush did 9/11
+>>>>>>> 24a48b09828b2cb9bcf01960d7ccbbea895cb8f5
