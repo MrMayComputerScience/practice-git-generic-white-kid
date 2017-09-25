@@ -1,6 +1,4 @@
 i like tuh get money. 
-<<<<<<< HEAD
-cp IS ONLY WORTH 3/5S A PERSON
-=======
+cp IS ONLY WORTH 5/3S A PERSON
 i like tuh get booty.
->>>>>>> 1fa3f991c88b58cba8e037957f99b364a3532cb2
+
