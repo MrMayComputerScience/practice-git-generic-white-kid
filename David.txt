@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 9/11WASANINSIDEJOB
+=======
+9/11WASANINSIDEJOB
+<<<<<<< HEAD
+are you sure tho
+=======
+Bush did 9/11
+>>>>>>> 24a48b09828b2cb9bcf01960d7ccbbea895cb8f5
+>>>>>>> 47a75d2dbe6c2193663291dd1e9f18d35d39b445
