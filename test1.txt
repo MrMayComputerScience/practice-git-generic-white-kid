@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 david and edgley is a terrible love story.
+=======
+david and edgley is a okay love story.
+>>>>>>> aba9cf12f4a129d205364f011d03e454c04252b7
 
